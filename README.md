@@ -7,6 +7,7 @@ Kubernetes Integration with Python-CGI
 Example - when we write 'run deployment using httpd image' then it run complete deployment command in backend.   
 
 Feature necessary - 
+
 👉 It can launch pods with specific name given by user.  
 👉 Run deployment using image and name given by user.  
 👉 Expose services on given user input port number.  
